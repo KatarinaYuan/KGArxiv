@@ -9,23 +9,28 @@ title = "Computation and Language"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
+category = "cs.KG"
+title = "Knowledge Graph"
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.Induc"
+title = "Inductive"
 
 [[sources]]
 limit = 150
-category = "cs.LG"
-title = "Machine Learning"
+category = "cs.Induc"
+title = "Transfer"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.GNN"
+title = "Graph Neural Network"
+
+[[sources]]
+limit = 150
+category = "cs.RL"
+title = "Representation Learning"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
